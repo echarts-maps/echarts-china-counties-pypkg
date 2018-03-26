@@ -9,7 +9,7 @@ echarts-china-counties-pypkg
    :target: https://codecov.io/gh/pyecharts/echarts-china-counties-pypkg
 
 
-The project packages `echarts-china-counties-js <https://github.com/pyecharts/echarts-china-counties-js>`_ and distributes it via pypi.
+The project packages `echarts-china-counties-js <https://github.com/echarts-china-counties-js/echarts-china-counties-js>`_ and distributes it via pypi.
 
 Usage
 ================================================================================
@@ -20,6 +20,15 @@ Usage
 Installation
 ================================================================================
 
+
+You can install echarts-china-counties-pypkg via pip:
+
+.. code-block:: bash
+
+    $ pip install echarts-china-counties-pypkg
+
+
+or clone it and install it:
 
 .. code-block:: bash
 

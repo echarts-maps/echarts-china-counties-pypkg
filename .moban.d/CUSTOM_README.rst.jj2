@@ -3,7 +3,7 @@
 {% block documentation_link %}
 {% endblock %}
 
-{% block features %}The project packages `echarts-china-counties-js <https://github.com/pyecharts/echarts-china-counties-js>`_ and distributes it via pypi.
+{% block features %}The project packages `echarts-china-counties-js <https://github.com/echarts-china-counties-js/echarts-china-counties-js>`_ and distributes it via pypi.
 
 Usage
 ================================================================================
