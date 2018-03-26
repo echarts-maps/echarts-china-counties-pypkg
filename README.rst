@@ -11,6 +11,12 @@ echarts-china-counties-pypkg
 
 The project packages `echarts-china-counties-js <https://github.com/pyecharts/echarts-china-counties-js>`_ and distributes it via pypi.
 
+Usage
+================================================================================
+
+.. image:: https://github.com/pyecharts/echarts-china-counties-pypkg/raw/master/demo.png
+
+
 Installation
 ================================================================================
 
