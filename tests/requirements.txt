@@ -3,3 +3,4 @@ mock
 codecov
 coverage
 flake8
+pyecharts
