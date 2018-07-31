@@ -10,6 +10,7 @@ def test_city_map():
             visual_text_color='#000')
     # To avoid potential pinyin crash, all cities have a province prefix
     html = map._repr_html_()
-    assert "zhi2xia2_bei3jing1_hai3dian4" in html
     print(html)
+    assert "zhi2xia2_bei3jing1_hai3dian4" in html
+    assert "9af181f7c9d8308770d3a4a298ead8c6" in html
     assert "nbextensions/echarts-china-counties-js" in html
