@@ -9,7 +9,7 @@ echarts-china-counties-pypkg
    :target: https://codecov.io/gh/pyecharts/echarts-china-counties-pypkg
 
 
-The project packages `echarts-china-counties-js <https://github.com/echarts-maps/echarts-china-counties-js>`_ and distributes it via pypi.
+The project packages `echarts-china-counties-js <https://github.com/echarts-china-counties-js/echarts-china-counties-js>`_ and distributes it via pypi.
 
 Usage
 ================================================================================
